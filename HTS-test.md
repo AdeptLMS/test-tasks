@@ -38,3 +38,8 @@ We will evaluate:
 
 * Use Haml or Slim
 * Use Bootstrap or other simple design
+
+
+## Scope
+
+This particular task is not paid. Hence we do not expect a fully developed application to be delivered. Please show us what you can do with the time you have available. Roughly estimated, we believe the task is going to take 3-5 hours to complete.
